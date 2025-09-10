@@ -1,2 +1,5 @@
 jiomart_products_database.csv
 draft/
+images/
+.*
+checkpoint.sqlite
